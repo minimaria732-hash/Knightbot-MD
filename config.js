@@ -1,30 +1,30 @@
-require('dotenv').config();
+requieren('Dotenv').config..............................................................................................................................................................................................................();
 
 global.APIs = {
-    xteam: 'https://api.xteam.xyz',
+    equipo: 'https://api.xteam.xyz',
     dzx: 'https://api.dhamzxploit.my.id',
     lol: 'https://api.lolhuman.xyz',
-    violetics: 'https://violetics.pw',
-    neoxr: 'https://api.neoxr.my.id',
-    zenzapis: 'https://zenzapis.xyz',
-    akuari: 'https://api.akuari.my.id',
-    akuari2: 'https://apimu.my.id',
+    violética..: 'https://violetics.pw',
+    Neoxr: 'https://api.neoxr.my.id',
+    Zenzapis: 'https://zenzapis.xyz',
+    Akuari: 'https://api.akuari.my.id',
+    Akuari2: 'https://apimu.my.id',
     nrtm: 'https://fg-nrtm.ddns.net',
     bg: 'http://bochil.ddns.net',
-    fgmods: 'https://api-fgmods.ddns.net'
+    MGMODS: 'https://api-fgmods.ddns.net'
 };
 
 global.APIKeys = {
-    'https://api.xteam.xyz': 'd90a9e986e18778b',
-    'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
-    'https://api.neoxr.my.id': 'yourkey',
-    'https://violetics.pw': 'beta',
-    'https://zenzapis.xyz': 'yourkey',
-    'https://api-fgmods.ddns.net': 'fg-dylux'
+    'https://api.xteam.xyz': 'd90A9E986E18778B',
+    'https://api.lolhuman.xyz': '85FAF717D0545D14074659AD',
+    'https://api.neoxr.my.id': "Tu llave",
+    'https://violetics.pw': "Beta",
+    'https://zenzapis.xyz': "Tu llave",
+    'https://api-fgmods.ddns.net': 'FG-Dylux'
 };
 
-module.exports = {
-    WARN_COUNT: 3,
-    APIs: global.APIs,
+Módulo.exportaciones = {
+Bot_name="KNIGHT BOT"="KNIGHT BOT"Bot_name="KNIGHT BOT"
+APIs: APIs:: .APIs,
     APIKeys: global.APIKeys
 };
